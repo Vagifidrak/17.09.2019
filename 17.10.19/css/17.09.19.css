@@ -161,5 +161,25 @@ box-sizing: border-box verdikde padding elave edildikde widthin ustune gelmir
 
 
 /* ==========
- Service end 
+Service end 
+============== */
+
+/* ==========
+Categoriy start
+============== */
+.category-image{
+    width: 100%
+}
+
+.category-item img{
+    float: left;
+    width: 33%;
+    height: 267px;
+}
+
+
+
+
+/* ==========
+Categoriy end
 ============== */
